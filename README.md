@@ -1,7 +1,4 @@
-# 🌳🌳🌳 چمن های گیت هابتو سبز کن 🌳🌳🌳!
-![image](https://github.com/user-attachments/assets/97f1da5c-8426-4924-b9a1-f43af33fc1fa)
 
-> --------------------------------
 
 # آموزش ( مراحل ویدئو ، اگر ویدئو رو هم ببینید کافیه ): 
 1. ابتدا روی گزینه "Use this template" کلیک کنید ، یک اسم به دلخواه بهش بدید و بزنید تا ساخته شود
@@ -33,18 +30,4 @@ https://github.com/user-attachments/assets/5bddd84f-71f9-42eb-9d43-09985c9acd7d
     * * * * *
 ```
 
-# بادتون نره مارو حمایت کنید.
 
-خوشحال میشیم اگه دکمه ستاره بالا ⭐ رو بزنین و همچنین مارو توی تویتر و تلگرام دنیال کنین  💗 💕 💞
-
-<div align="center">
-    <p>
-        <a href="Https://x.com/0xOneiros">
-            <small>🆔 twitter </small>  
-        </a>
-        | 
-        <a href="Https://t.me/xOneiros">
-            <small>🆔 telegram </small>  
-        </a>
-    </p>
-</div>
